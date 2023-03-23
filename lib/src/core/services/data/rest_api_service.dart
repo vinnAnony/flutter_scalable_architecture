@@ -1,0 +1,1 @@
+// Used for REST API to return the data if the rest call is a success or need to return custom error exception based on 4xx, 5xx status code.

@@ -1,0 +1,2 @@
+// We do not store user credentials, API tokens, secret API keys in local storage,
+// We make use of flutter_secure_storage which stores data in the Android Keystore and Apple keychain with platform-specific encryption techniques.
